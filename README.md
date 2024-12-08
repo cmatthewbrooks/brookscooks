@@ -2,6 +2,19 @@
 
 My personal space for meal planning and recipes
 
+## Goals
+
+Generally speaking, my meal planning goals are as follows:
+
+* Most meals should be relatively healthy to offset meals that might be more fun.
+* Breakfasts and lunches should be simple, unless planned ahead. Repeating
+  breakfasts and lunches is fine.
+* Dinners should match my schedule and anticipated mood. Sometimes I want to be
+  chopping garlic and onions with a glass of red wine but other times, I just
+  want the meal to take care of itself quickly.
+* Automation should get from meal ideas to calendar events and combined grocery
+  lists as quickly and effeciently as possible.
+
 ## Motivation
 
 I love to cook (and eat!) but meal planning still causes friction in my daily
